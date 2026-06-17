@@ -1,4 +1,4 @@
-# salesfin-task
+# salesfine-task
 
 **Express + TypeScript + Knex + PostgreSQL + Redis**
 
